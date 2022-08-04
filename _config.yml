@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Contact"}
   - {file: "README.md", title: "About Me"}
-  - {file: "Resume_YSD_Data_Specialist.pdf", title: "Resume"}
+  - {url: "kaijensen1.github.io/Resume_YSD_Data_Specialist.pdf", title: "Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:kai.jensen6075@gmail.com"}
