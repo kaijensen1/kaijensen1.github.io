@@ -1,5 +1,5 @@
 ---
-title:  "Cyclistic"
+title:  "Cyclistic Bike-Share Analysis"
 mathjax: true
 layout: post
 categories: Data
@@ -7,7 +7,7 @@ categories: Data
 
 ## Business Task
 
-Using a years worth of Bike Trip data we will explore how Cyclistic subscription members (Annual Members), and Non-members (Casual Riders) use the bike rental system differently. Using these findings we will make recommendations on designing marketing strategies aimed at converting casual riders into annual members.
+Using a years worth of Bike Trip data I will explore how Cyclistic subscription members (Annual Members), and Non-members (Casual Riders) use the bike rental system differently. Using these findings I will make recommendations on designing marketing strategies aimed at converting casual riders into annual members.
 
 ## Key Stakeholders
 
@@ -18,8 +18,10 @@ Using a years worth of Bike Trip data we will explore how Cyclistic subscription
 
 ### Presentation
 
-[link](https://docs.google.com/presentation/d/1imWHT5RXWlRiVirWUIe-Qlg8lHfqHvpiMzy0N7c8Yu4/present#slide=id.p)
+The following is a slide presentaion summary of my analysis and recommendations.
+
+[Slide Presentation](https://docs.google.com/presentation/d/1imWHT5RXWlRiVirWUIe-Qlg8lHfqHvpiMzy0N7c8Yu4/present#slide=id.p)
 
 ### Change log/Step by step analysis
 
-a link ()
+[Report](https://kaijensen1.github.io/Cyclistic/)
