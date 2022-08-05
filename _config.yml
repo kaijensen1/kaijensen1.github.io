@@ -24,9 +24,9 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:kai.jensen6075@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/kaijensen1"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/kai-jensen-b55052194/"}
+  - {title: Linkedin, icon: <i class="fa-brands fa-linkedin"></i>, url: "https://www.linkedin.com/in/kai-jensen-b55052194/"}
 
-#<i class="fa-brands fa-linkedin"></i>
+#
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
