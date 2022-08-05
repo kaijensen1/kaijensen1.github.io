@@ -24,4 +24,4 @@ The following is a slide presentaion summary of my analysis and recommendations.
 
 ### Change log/Step by step analysis
 
-[Report](https://kaijensen1.github.io/_posts/Bike_Trip_Report.html)
+[Report](https://kaijensen1.github.io/Bike_Trip_Report.html)
