@@ -16,12 +16,11 @@ Using a years worth of Bike Trip data I will explore how Cyclistic subscription 
 - Cyclistic marketing analysis team
 
 
-### Presentation
+### [Presentation](https://docs.google.com/presentation/d/1imWHT5RXWlRiVirWUIe-Qlg8lHfqHvpiMzy0N7c8Yu4/present#slide=id.p)
 
-The following is a slide presentaion summary of my analysis and recommendations.
+A slide presentaion summary of my analysis and recommendations. Targeted toward the executive team and the director of marketing.
 
-[Slide Presentation](https://docs.google.com/presentation/d/1imWHT5RXWlRiVirWUIe-Qlg8lHfqHvpiMzy0N7c8Yu4/present#slide=id.p)
 
-### Change log/Step by step analysis
+### [Change log/Step by step analysis](https://kaijensen1.github.io/Bike_Trip_Report.html)
 
-[Report](https://kaijensen1.github.io/Bike_Trip_Report.html)
+A more detailed report of data cleaning and organization. Including specific code chunks.
